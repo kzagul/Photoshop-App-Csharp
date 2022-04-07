@@ -1,0 +1,41 @@
+﻿<Properties StartupConfiguration="{1E278156-A549-4E5D-B524-FBF3C53E7021}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Filters/PixelFilters.cs">
+    <Files>
+      <File FileName="Tasks.txt" Line="75" Column="41" />
+      <File FileName="Data/Photo.cs" />
+      <File FileName="Data/Pixel.cs" />
+      <File FileName="Data/Convertors.cs" />
+      <File FileName="Filters/IFilter.cs" />
+      <File FileName="Filters/GrayscaleFilter.cs" />
+      <File FileName="Filters/LighteningFilter.cs" />
+      <File FileName="Filters/PixelFilters.cs" Line="9" Column="10" />
+      <File FileName="Filters/ParameterInfo.cs" />
+      <File FileName="Filters/IParameters.cs" />
+      <File FileName="Filters/LighteningParameters.cs" />
+      <File FileName="Filters/EmptyParameters.cs" />
+      <File FileName="Filters/ParametrizedFilter.cs" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Photoshop" expanded="True">
+            <Node name="Photoshop" expanded="True">
+              <Node name="Data" expanded="True" />
+              <Node name="Filters" expanded="True">
+                <Node name="PixelFilters.cs" selected="True" />
+              </Node>
+              <Node name="Window" expanded="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.Photoshop PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|x86" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
